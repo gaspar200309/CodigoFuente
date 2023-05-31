@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=modelo\ game
+comment0.target=GhostVista(GhostModelo,\ Game)
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ paint2D(java.awt.Graphics)
+comment3.params=p\ arg1
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+numComments=4
